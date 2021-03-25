@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis: 
 The purpose of this analysis is to analyze product review data from paid reviewers: Amazon Vine members. This analysis will determine if there is any bias toward favorable reviews from Vine members in the [Kitchen products dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt). Extraction of this data set was done here: [Amazon_Reviews_ETL.ipynb](https://github.com/nguyencao247/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb), with the analysis done here: [Vine_Review_Analysis.ipynb](https://github.com/nguyencao247/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb) 
 
 ## Results: 
